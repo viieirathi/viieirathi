@@ -14,12 +14,13 @@
   <br>
   <tr>
     <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://camo.githubusercontent.com/386a95f2837c5c4ed46e48a191b790cac58b7ea9f541ac70940cbd76af8e8229/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4761627269656c436f72756a612673686f775f69636f6e733d74727565267468656d653d626c75652d677265656e" data-canonical-src="https://github-readme-stats.vercel.app/api?username=viieirathi&show_icons=true&theme=dark" style="max-width: 100%;">
+  <a href="https://github.com/viieirthi/github-readme-stats">
+    <img align="center" src="https://camo.githubusercontent.com/386a95f2837c5c4ed46e48a191b790cac58b7ea9f541ac70940cbd76af8e8229/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4761627269656c436f72756a612673686f775f69636f6e733d74727565267468656d653d626c75652d677265656e" data-canonical-src="https://github-readme-stats.vercel.app/api?username=viieirathi&show_icons=true&theme=blue-green" style="max-width: 100%;">
   </a>
-</td><td>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://camo.githubusercontent.com/4c8e4a4130f793cd0d73cdfcf41d88b3c56d7419d0bbcd62173ab2bc4f5b6941/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4761627269656c436f72756a61266c61796f75743d636f6d70616374267468656d653d626c75652d677265656e" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=viieirathi&langs_count=8&layout=compact&theme=dark" style="max-width: 100%;">
+</td>
+    <td>
+  <a href="https://github.com/viieirathi/github-readme-stats">
+    <img align="center" src="https://camo.githubusercontent.com/4c8e4a4130f793cd0d73cdfcf41d88b3c56d7419d0bbcd62173ab2bc4f5b6941/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4761627269656c436f72756a61266c61796f75743d636f6d70616374267468656d653d626c75652d677265656e" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=viieirathi&langs_count=8&layout=compact&theme=blue-green" style="max-width: 100%;">
   </a>
 </td>
   </tr>
