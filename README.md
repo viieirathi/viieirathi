@@ -1,6 +1,5 @@
 <h1>Olá,<br> Meu nome é Thiago Vieira</h1>
 <h2>Vivendo a arte do codigo</h2>
-<br>
 <h3>No momento, estou em processo de aprendizagem na trybe para me tornar um desenvolvedor full stack. Minha preferência por codar está no back-end. </h3>
 <h3>Principais stacks adquiridas</h3>
 <a href="[Link perfil no html]"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
