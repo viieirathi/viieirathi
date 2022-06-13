@@ -1,6 +1,18 @@
-<h1>Olá,<br> Meu nome é Thiago Vieira</h1>
-<h2>Vivendo a arte do codigo</h2>
-<h3>No momento, estou em processo de aprendizagem na trybe para me tornar um desenvolvedor full stack. Minha preferência por codar está no back-end. </h3>
+</br>
+
+<h1 align="left" dir="auto">Thiago Vieira</h1>
+
+</br>
+<h2>Vivendo a arte do código</h2>
+<h3>
+- 🔭 Atualmente estou estudando na Trybe
+- 🌱 Atualmente estou aprendendo sobre moongose
+- 👯 Estou procurando colaborar em projetos de Back-End
+- 🤔 Estou procurando ajuda com ...
+- 💬 Pergunte-me sobre Inteligência emocional e como podemos administrar nossas emoções.
+- 😄 Pronomes: Bigode
+- ⚡ Curiosidade: ...
+</h3>
 <h3>Principais stacks adquiridas</h3>
 <a href="[Link perfil no html]"><img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <a href="[Link perfil no JavaScript]"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
