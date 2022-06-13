@@ -30,6 +30,7 @@
   </br>
   <img src="https://camo.githubusercontent.com/dbcd5c52f2757f0daf6ff3bcf45141be118a05e36d9eaa2347e2428dc0eb62ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3233324633453f7374796c653d666c61742d737175617265266c6f676f3d6d6963726f736f667473716c73657276657226636f6c6f723d623262326232266c6f676f436f6c6f723d626c61636b" alt="SQL" data-canonical-src="https://img.shields.io/badge/SQL-232F3E?style=flat-square&amp;logo=microsoftsqlserver&amp;color=b2b2b2&amp;logoColor=black" style="max-width: 100%;">
   <img src="https://camo.githubusercontent.com/92407fc26e09271d8137b8aaf1585b266f04046b96f1564dfe5a69f146e21301/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73266c6f676f436f6c6f723d7768697465" alt="JWT" data-canonical-src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=JSON%20web%20tokens&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/15569ddae589aac1f190bb8f480c3f1947ae54ceb78fcc0a4e9bcf5688718189/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d77686974653f7374796c653d666c61742d73717561726526636f6c6f723d313931396666266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="TS" data-canonical-src="https://img.shields.io/badge/-Typescript-white?style=flat-square&amp;color=1919ff&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;">
   </div>
   
   </br>
