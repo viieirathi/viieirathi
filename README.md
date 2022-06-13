@@ -46,13 +46,9 @@
     <h3>
       Github Stats
     </h3>
-  <tr>
-    <td>
   <a href="https://github.com/viieirathi">
     <a href =" https://github.com/anuraghazra/github-readme-stats "> 
   <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=viieirathi&show_icons=true&theme=blue-green" style="max-width: 100%;"/>
   <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viieirathi&langs_count=8&layout=compact&theme=blue-green" style="max-width: 100%;"/>
  </a>
-</td>
-  </tr>
   </div>
