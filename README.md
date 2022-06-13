@@ -5,7 +5,7 @@
 
 <h6>
   <p dir="auto">- 🔭 Atualmente estou procurando emprego como Desenvolvedor Web Jr BackEnd.</p>
-  <p dir="auto">- 🌱 No momento estou aprendendo sobre moongose.</p>
+  <p dir="auto">- 🌱 No momento estou aprendendo sobre Typescript.</p>
   <p dir="auto">- 👯 Estou procurando colaborar em projetos de Back-End.</p>
   <p dir="auto">- 💬 Pergunte-me sobre: Inteligência emocional e como podemos administrar nossas emoções.<p/>
   <p dir="auto">- 😄 Pronomes: Bigode ou TH.</p>
@@ -32,7 +32,12 @@
   <img src="https://camo.githubusercontent.com/92407fc26e09271d8137b8aaf1585b266f04046b96f1564dfe5a69f146e21301/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a534f4e253230776562253230746f6b656e73266c6f676f436f6c6f723d7768697465" alt="JWT" data-canonical-src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=JSON%20web%20tokens&amp;logoColor=white" style="max-width: 100%;">
   </div>
   
-  ![Snake animation](https://github.com/viieirathi/viieirathi/blob/output/github-contribution-grid-snake.svg)
+  </br>
+ <a target="_blank" rel="noopener noreferrer" href="https://github.com/viieirathi/viieirathi/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">  
+    <img src:"https://github.com/viieirathi/viieirathi/blob/output/github-contribution-grid-snake.svg">
+  </a>
+  
+  ![GitHub Snake dark]()
 
   
 <h3>Quer me conhecer melhor ?</h3>
