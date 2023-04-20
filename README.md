@@ -8,8 +8,6 @@
   <p dir="auto">- 🌱 No momento estou desenvolvendo um projeto em Typescript.</p>
   <p dir="auto">- 👯 Estou procurando colaborar em projetos de Back-End.</p>
   <p dir="auto">- 💬 Pergunte-me sobre: Inteligência emocional e como podemos administrar nossas emoções.<p/>
-  <p dir="auto">- 😄 Pronomes: Bigode ou TH.</p>
-  <p dir="auto">- ⚡ Curiosidade: Ja fiz uma viagem de caminhão de 4 dias de SP até Piauí/Nordeste, amo jogar video game e viajar.</p>
 </h3>
 </br>
 
