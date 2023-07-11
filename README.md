@@ -5,7 +5,7 @@
 
 <h6>
   <p dir="auto">- 🔭 Atualmente estou trabalhando como Desenvolvedor Web BackEnd.</p>
-  <p dir="auto">- 🌱 No momento estou desenvolvendo um projeto em Typescript.</p>
+  <p dir="auto">- 🌱 No momento estou trabalhando com a stack Typescript.</p>
   <p dir="auto">- 👯 Estou procurando colaborar em projetos de Back-End.</p>
   <p dir="auto">- 💬 Pergunte-me sobre: Inteligência emocional e como podemos administrar nossas emoções.<p/>
 </h3>
