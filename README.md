@@ -1,5 +1,5 @@
 </br>
-<h1 align="left" dir="auto">Sejam muito bem-vind?s!</h1>
+<h1 align="left" dir="auto">Sejam muito bem-vind@s!</h1>
 
 <h6>Sou o Thiago Vieira e sou Desenvolvedor Web Full Stack</h6>
 
